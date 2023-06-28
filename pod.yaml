@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: libin05/newimage:latest
+          image: libin05/k8simage:latest
           imagePullPolicy: Always
